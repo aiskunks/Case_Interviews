@@ -1,6 +1,33 @@
 # Case Interview Preparation
 
-Case Interviews
+# Conversational Interviews
+This interview format aims to learn more about your background, interests, and future goals, while giving you an opportunity to understand our firm, Oliver Wyman. You can expect a dialogue about your achievements, experiences, interests, and career objectives. It's also a chance to inquire about Oliver Wyman.
+
+# Case Interviews
+Case interviews are interactive sessions designed to evaluate your analytical thinking and problem-solving skills. You'll get an insight into the kind of problems we solve for our clients as many cases are based on real-world challenges.
+
+## 1. Role of The Case Interview
+Case interviews are utilized to understand your thought process and acquaint you with our work. They allow us to evaluate:
+
+- Your ability to deconstruct complex problems
+- Your skills in data analysis and synthesis
+- Your out-of-the-box thinking
+- Your practical solutions to complex business problems
+- Your proficiency in asking relevant questions
+- Your communication skills
+
+## 2. Case Interview Tips
+
+- View the case interviewer as your client. Collaborate with them to solve the problem.
+- Identify the issue: Understand the situation, ask clarifying questions, and paraphrase the situation.
+- Decompose the problem: Are there smaller sub-problems? Illustrate your thoughts, structure your thinking process, and ask for needed information.
+- Choose a strategy: Justify why it’s preferable. State your assumptions. Agree on essential concepts to delve deeper.
+- Investigate the problems: Incorporate and analyze data in your thought structure. If you require more data, ask for it.
+- Utilize numbers: Exhibit your quantitative skills and exercise caution with simple calculations.
+- Make a recommendation: Summarize your main findings and their relation to the primary issues. Provide actionable suggestions.
+
+
+_Case Interview Guidelines_
 
 # 1. Guidelines for Case Interview
 ## 1) Pay Attention to the Question
